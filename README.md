@@ -1,13 +1,11 @@
 - ### Hi there 👋
-* 👂 My name is Mansi Rajput
-* 👩 Pronouns:
-* 🌱 I’m currently learning Computer Science
-* 🤝 I’m looking to collaborate on ..
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love learn new skills
-* ⚡ Fun fact: ...
+* 👂 My name is Mansi Rajput.
+* 🌱 I’m currently learning Python with frameworks.
+* 🌍 I'm based in Bhopal, Madhya Pradesh.
+* ✉️ You can contact me at mansibpl2003@gmail.com
+* 🤝 I'm open to collaborating on Opensource Python based project.
+  
+
 -
 
 <!---
